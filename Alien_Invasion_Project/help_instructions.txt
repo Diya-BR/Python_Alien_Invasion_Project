@@ -1,0 +1,12 @@
+--- HOW TO PLAY ---
+
+ARROWS: Move (4 Directions)
+SPACE / S: Fire Lasers
+P: Start Game | Q: Quit
+
+--- TIPS ---
+
+SCORING: Shoot aliens to gain points.
+DANGER: Collisions or aliens reaching the bottom cost 1 Life.
+LIMITS: Max 10 bullets on screen at once.
+LIVES: You have 3 ships total.
